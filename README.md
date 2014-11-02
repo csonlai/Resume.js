@@ -4,7 +4,7 @@ Resume.js is a simple CLI process manager to  manager your node processes,and au
 
 # Installation
 ```
-  [sudo] npm install -g resumejs
+  [sudo] npm install cli-resumejs
 ```
 
 # How it works
@@ -45,6 +45,9 @@ Run a node process with resume.js with -r command
 ```
 
 Then we can list our processes with -l command
+``` bash
+    resume -l 
+```
 
 ``` bash
 
