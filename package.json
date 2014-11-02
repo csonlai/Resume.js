@@ -1,6 +1,6 @@
 {
   "name": "cli-resumejs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Resume.js is a simple CLI process manager to manage your node processes,and auto restart your process when exit.",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/csonlai/Resume.js"
   },
   "bin": {
     "resume": "./bin/resume.js"
